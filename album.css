@@ -1,0 +1,80 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+header {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    font-size: 24px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}
+
+/* Song section styling */
+.song-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+
+.song {
+    width: 80%;
+    margin: 10px 0;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+}
+
+/* Different background colors for each song */
+#song1 {
+    background-color: #e74c3c; /* Red */
+}
+
+#song2 {
+    background-color: #3498db; /* Blue */
+}
+
+#song3 {
+    background-color: #2ecc71; /* Green */
+}
+
+#song4 {
+    background-color: #f1c40f; /* Yellow */
+}
+
+#song5 {
+    background-color: #9b59b6; /* Purple */
+}
+
+#song6 {
+    background-color: #e67e22; /* Orange */
+}
+
+#song7 {
+    background-color: #1abc9c; /* Teal */
+}
+
+#song8 {
+    background-color: #34495e; /* Navy */
+}
+
+#song9 {
+    background-color: #ff6347; /* Tomato */
+}
+
+#song10 {
+    background-color: #8e44ad; /* Violet */
+}
